@@ -16,7 +16,7 @@ function area() {
 
     let area = ((baseValue * heightValue) / 2)
 
-    result.textContent = area
+    result.textContent = "Area of triangle is :" + area
 
 
 

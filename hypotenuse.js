@@ -14,9 +14,9 @@ function find() {
 
     let hypotenuseValue = Math.sqrt(heightValue + baseValue)
 
-    hypotenuse.textContent = hypotenuseValue
+    hypotenuse.textContent = "hypotenuse is : " + hypotenuseValue
 
-    console.log(hypotenuseValue)
+
 }
 
 
